@@ -16,7 +16,7 @@ Access to Kaggle API to download the dataset. You'll need to upload your kaggle.
 ## Instructions
 Setup: This script uses a specific version of numpy, scikit-learn, and osmnx. If you already have these installed, the script first uninstalls them and then reinstalls the required versions.
 
-Dataset Download: The script downloads the GeoLife dataset from Kaggle. You'll need to upload your kaggle.json API key file.
+Dataset Download: The script downloads the GeoLife dataset from Kaggle. You'll need to upload your kaggle.json API key file. Dataset can be found at: https://www.kaggle.com/datasets/arashnic/microsoft-geolife-gps-trajectory-dataset
 
 Data Extraction: This function parallel_extract_and_load_geolife_trajectories extracts GPS trajectory data from the dataset. It uses parallel processing to speed up this operation.
 
