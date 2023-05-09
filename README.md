@@ -1,7 +1,7 @@
 # trajectorySimilarityProject
 
 
-README Documentation
+## README Documentation
 Overview
 This Python script aims to process, analyze, and visualize GPS trajectory data. It uses a dataset from Microsoft Research's GeoLife project, which provides trajectories of 182 users over a period of over three years (from April 2007 to August 2012). These GPS trajectories were collected in Beijing, China.
 
